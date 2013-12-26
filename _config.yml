@@ -1,3 +1,9 @@
 name: Drew's Blog
 markdown: redcarpet
 pygments: true
+
+assets:
+    sources:
+        - _assets/js
+        - _assets/css
+        - _assets/img
